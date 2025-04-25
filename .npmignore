@@ -1,0 +1,8 @@
+coverage/
+**/types.ts
+**/errors.ts
+**/*.test.*
+tsconfig.json
+test/
+
+img/
